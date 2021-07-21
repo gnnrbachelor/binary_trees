@@ -3,6 +3,7 @@
 /**
  * binary_tree_preorder - Preorder traversal
  * @tree: Tree
+ * @func: Pointer to function
  * Return: Void
  */
 
