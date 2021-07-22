@@ -1,5 +1,7 @@
 #include "binary_trees.h"
 
+size_t binary_tree_height_1(const binary_tree_t *tree);
+
 /**
  * binary_tree_balance - Returns balance factor
  * @tree: Tree
